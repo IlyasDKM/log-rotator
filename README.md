@@ -12,6 +12,6 @@
 ## Установка
 
 ```bash
-git clone https://github.com/your-github/log-rotator.git
+git clone https://github.com/IlyasDKM/log-rotator.git
 cd log-rotator
 chmod +x log-rotator.sh
